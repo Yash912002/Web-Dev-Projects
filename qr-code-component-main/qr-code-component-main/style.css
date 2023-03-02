@@ -1,0 +1,29 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-body {
+  background-color: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-title {
+  color: hsl(218, 44%, 22%);
+  font-family: "Outfit", sans-serif;
+}
+
+.card-text {
+  color: hsl(220, 15%, 55%);
+  font-family: "Outfit", sans-serif;
+  font-size: 14px;
+}
+
+
+
+
